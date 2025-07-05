@@ -1,0 +1,1 @@
+Hola profesor le deje adjunto al archivo sql llamado usuarios(3).sql para que lo pueda descargar y lo importa en mysql local y le funcione correctamente.
